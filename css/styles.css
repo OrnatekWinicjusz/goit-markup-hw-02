@@ -2,7 +2,12 @@ button:hover{
     background-color: #2196F3;
     color: #FFFFFF;
     }
-nav. a{
+nav:link{
     color:#212121;
-    
- }
+     background-color: transparent;
+     text-decoration: none;
+     }
+nav:visited{
+        color:#2196F3;
+     }
+ body {font-family: "Roboto"}
