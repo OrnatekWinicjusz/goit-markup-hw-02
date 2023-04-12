@@ -2,15 +2,16 @@ button:hover{
     background-color: #2196F3;
     color: #FFFFFF;
     }
-nav:link{
-    color:#212121;
-     background-color: transparent;
-     text-decoration: none;
-     }
-nav:visited{
-        color:#2196F3;
-     }
  body {font-family: "Roboto"}
 .black-link{
-    color:#212121
+    color:#212121;
+        }
+.black-link:visited{
+    color:#2196F3
+}
+.black-link{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
 }
