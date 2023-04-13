@@ -1,6 +1,7 @@
 button:hover{
     background-color: #2196F3;
     color: #FFFFFF;
+    font-weight: 500;
     }
  body {font-family: "Roboto"}
 .black-link{
@@ -25,4 +26,9 @@ a{
     font-style: normal;
     color:#212121;
     }
- 
+   h4 {
+    font-weight: 700;
+ }
+p{
+    font-weight: 400;
+}
