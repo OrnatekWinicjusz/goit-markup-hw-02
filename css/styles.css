@@ -15,3 +15,14 @@ button:hover{
 a{
     text-decoration: none;
 }
+.contact{
+    color: #757575;
+    text-decoration: none;
+}
+.company-name{
+    font-family:"Raleway", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color:#212121;
+    }
+ 
