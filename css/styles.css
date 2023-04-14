@@ -26,9 +26,15 @@ a{
     font-style: normal;
     color:#212121;
     }
-   h4 {
-    font-weight: 700;
+  .team h4 {
+    font-weight: 500;
  }
-p{
+.team p{
     font-weight: 400;
+}
+.paragraphs h2{
+font-weight:700
+}
+.paragraphs p{
+    font-weight: 400
 }
