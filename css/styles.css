@@ -16,13 +16,19 @@ button:hover{
 a{
     text-decoration: none;
 }
-.contact{
+.contact header{
     color: #757575;
     text-decoration: none;
+    font-weight: 500;
+}
+.contact footer {
+    color: #757575;
+    text-decoration: none;
+    font-weight: 400;
 }
 .company-name{
     font-family:"Raleway", sans-serif;
-    font-weight: bold;
+    font-weight: 700;
     font-style: normal;
     color:#212121;
     }
@@ -37,4 +43,22 @@ font-weight:700
 }
 .paragraphs p{
     font-weight: 400
+}
+h1{
+    font-weight: 900;
+}
+h3{
+    font-weight: 700;
+}
+nav{
+    font-weight: 500;
+}
+address {
+    font-weight: 400;
+}
+.portfolio h4{
+    font-weight: 700;
+}
+.portfolio p{
+    font-weight: 400;
 }
