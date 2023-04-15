@@ -14,7 +14,7 @@ button:hover{
     color:#212121;
         }
 .black-link:visited{
-    color:#2196F3
+    color:#2196F3;
 }
 .black-link{
     text-decoration: none;
@@ -32,6 +32,7 @@ a{
     color: #757575;
     text-decoration: none;
     font-weight: 400;
+    font-style: normal;
 }
 .company-name{
     line-height: 1.9075;
@@ -44,7 +45,6 @@ a{
     line-height:1.9075;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-style: normal;
     color: #FFFFFF;
 }
   .team h4 {
@@ -72,6 +72,7 @@ nav{
 address {
     font-weight: 400;
     color: #FFFFFF;
+    font-style: normal;
 }
 .portfolio h4{
     font-weight: 700;
