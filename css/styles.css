@@ -27,17 +27,20 @@ a{
     text-decoration: none;
     font-weight: 500;
     line-height: 1.025625;
+    font-size: 14px;
 }
 .contact-footer {
     color: #757575;
     text-decoration: none;
     font-weight: 400;
     font-style: normal;
+    font-size: 14px;
 }
 .company-name{
     line-height: 1.9075;
     font-family:"Raleway", sans-serif;
     font-weight: 700;
+    font-size: 26px;
     font-style: normal;
     color:#212121;
     }
@@ -45,40 +48,59 @@ a{
     line-height:1.9075;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
+    font-size: 26px;
     color: #FFFFFF;
 }
   .team h4 {
     font-weight: 500;
+    font-size: 16px;
+    line-height:1.171875;
 }
 .team p{
-    font-weight: 400;
+        font-size: 16px;
+    line-height: 1.171875;
 }
 .paragraphs h2{
-font-weight:700
+font-weight: 700;
+font-size: 14px;
+line-height: 1.025625;
 }
 .paragraphs p{
-    font-weight: 400
+    font-size: 14px;
+    line-height: 1.025625;
 }
 h1{
     font-weight: 900;
+    line-height: 3.75;
+    font-size: 44px;
+}
+h2{
+    font-weight: 700;
+    line-height: 1.025625;
+    font-size: 14px;
 }
 h3{
     font-weight: 700;
-}
+    line-height: 2.636875;
+    font-size: 36px;
+    }
 nav{
     line-height: 1.025625;
     font-weight: 500;
+    font-size: 14px;
 }
 address {
     font-weight: 400;
     color: #FFFFFF;
     font-style: normal;
+    font-size: 14px;
 }
 .portfolio h4{
     font-weight: 700;
     line-height: 2.25;
+    font-size: 18px;
 }
 .portfolio p{
-    font-weight: 400;
-    line-height: 1.875;
+        line-height: 1.875;
+        font-size: 16px;
 }
