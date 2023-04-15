@@ -16,12 +16,12 @@ button:hover{
 a{
     text-decoration: none;
 }
-.contact header{
+.contact-header{
     color: #757575;
     text-decoration: none;
     font-weight: 500;
 }
-.contact footer {
+.contact-footer {
     color: #757575;
     text-decoration: none;
     font-weight: 400;
@@ -32,6 +32,12 @@ a{
     font-style: normal;
     color:#212121;
     }
+        .company-name-footer {
+            font-family: "Raleway", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+            color: #FFFFFF;
+        }
   .team h4 {
     font-weight: 500;
  }
