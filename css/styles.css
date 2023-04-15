@@ -26,6 +26,7 @@ a{
     color: #757575;
     text-decoration: none;
     font-weight: 500;
+    line-height: 1.025625;
 }
 .contact-footer {
     color: #757575;
@@ -33,20 +34,22 @@ a{
     font-weight: 400;
 }
 .company-name{
+    line-height: 1.9075;
     font-family:"Raleway", sans-serif;
     font-weight: 700;
     font-style: normal;
     color:#212121;
     }
-        .company-name-footer {
-            font-family: "Raleway", sans-serif;
-            font-weight: 700;
-            font-style: normal;
-            color: #FFFFFF;
-        }
+.company-name-footer {
+    line-height:1.9075;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #FFFFFF;
+}
   .team h4 {
     font-weight: 500;
- }
+}
 .team p{
     font-weight: 400;
 }
@@ -63,6 +66,7 @@ h3{
     font-weight: 700;
 }
 nav{
+    line-height: 1.025625;
     font-weight: 500;
 }
 address {
